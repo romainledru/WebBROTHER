@@ -1,0 +1,13 @@
+{
+    "stocks": [
+        {
+            "air_liquide": "https://finance.yahoo.com/quote/AI.PA?p=AI.PA&.tsrc=fin-srch",
+            "tesla": "https://finance.yahoo.com/quote/TSLA?p=TSLA&.tsrc=fin-srch",
+            "adidas": "https://finance.yahoo.com/quote/ADS.DE?p=ADS.DE&.tsrc=fin-srch"
+        }
+    ],
+    "fonds": [
+    ],
+    "gebaude": [
+    ]
+}
