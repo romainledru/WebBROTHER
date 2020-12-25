@@ -1,6 +1,7 @@
 # StocksBROTHER
 
 StocksBROTHER is a Python script that look at the stocks market evolution, send email if a stock is becoming interessant to buy, and store data.
+These libraries are used: BeautifulSoup, Requests, smtplib
 
 StocksBROTHER is built to be always running (I use it on my RaspberryPI which is also a Hub/Server for connected objects in my house)
 
